@@ -1,0 +1,15 @@
+base_url: https://jobs.occitanie.community
+site_name: Slack Occitanie
+description: Le job board de la communauté Slack Occitanie
+theme: orion
+build_path: ./docs
+
+robots: index, follow
+
+opengraph:
+  type: article
+
+twitter:
+  card: summary
+  creator: OccitanieSlack
+  site: OccitanieSlack
