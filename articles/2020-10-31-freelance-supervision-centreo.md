@@ -4,7 +4,7 @@ description: Projet de construction de l’une des plus grosses plateformes Cent
 published_at: 2020-10-30
 ---
 
-# Freelance - Supervision Centreon
+# ~~Freelance - Supervision Centreon~~ (poste pourvu)
 
 Bonjour à tous,
 Est ce que quelqu'un serait intéressé par une mission de supervision CENTREON?

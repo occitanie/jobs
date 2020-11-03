@@ -4,7 +4,7 @@ description: Je suis en recherche URGENTE de formateurs pour l'EPSI Toulouse
 published_at: 2020-10-15
 ---
 
-# Freelance - Formateurs
+# ~~Freelance - Formateurs~~ (poste pourvu)
 
 Hello ! Je suis en recherche URGENTE de formateurs pour l'EPSI Toulouse sur les sujets suivants :
 
